@@ -43,10 +43,16 @@ const appendImage = (card) => {
 }
 
 const deleteCard = (event) => {
-  const willDeleteCard = window.confirm('Delete?');
-  if (willDeleteCard) {
-    event.target.remove();
-  }
+  event.target.style.filter = 'grayscale(100%)';
+  setTimeout(() => {
+    const willDeleteCard = window.confirm('Delete?');
+    if (willDeleteCard) {
+      event.target.classList.add('deleted-card');
+      event.target.remove();
+    } else {
+      event.target.style.filter = '';
+    }
+  }, 10);
 }
 
 const onDragStart = (event) => {
