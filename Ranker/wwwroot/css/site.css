@@ -11,22 +11,43 @@ body {
 }
 
 .headerContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
     color: #ffffff;
-    margin-bottom: 10px;
 }
 
-#addCard {
-    display: block;
-    margin: 0 auto;
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.addCard {
     margin-top: 10px;
-    width: 100px;
-    height: 25px;
+    margin-right: 10px;
+    width: 120px;
+    height: 30px;
     background-color: #4169e1;
     color: #ffffff;
-    border-radius: 5px;
+    border-radius: 10px;
+    border: none;
+}
+
+.saveAsImage {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 120px;
+    height: 30px;
+    background-color: #4169e1;
+    color: #ffffff;
+    border-radius: 10px;
     border: none;
 }
 
@@ -35,22 +56,24 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    width: 100%;
+    width: 1200px;
+    margin: 0 auto;
     background-color: #1e1e1e;
 }
 
 .row {
     display: flex;
     width: 100%;
-    height: 100px;
+    height: 60px;
     background-color: #1e1e1e;
+    align-items: center;
 }
 
 .label {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
+    width: 60px;
 	height: 100%;
 }
 
@@ -58,8 +81,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
-	height: 100px;
+    width: 60px;
+    height: 60px;
     border-radius: 0px;
     background-color: white;
 }
@@ -67,8 +90,10 @@ body {
 #bank {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
-    height: 100px;
+    flex-shrink: 0;
+    width: 1200px;
+    height: 60px;
+    margin: 0 auto;
     background-color: #1e1e1e;
     margin-top: 10px;
 }

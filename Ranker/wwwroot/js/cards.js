@@ -1,5 +1,5 @@
 const cards = document.querySelectorAll('.card');
-const addCard = document.querySelector('#addCard');
+const addCard = document.querySelector('.addCard');
 
 const addCardToBank = (event) => {
   const card = createCard();
@@ -27,7 +27,7 @@ const appendImage = (card) => {
   input.setAttribute('accept', 'image/x-png, image/gif, image/jpeg');
   input.style.visibility = 'hidden';
   input.onchange = () => {
-    const image = new Image(100, 100);
+    const image = new Image(60, 60);
     const file = input.files[0];
     console.log(file);
     
