@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -21,8 +25,16 @@
       "PackagePath": "staticwebassets\\js\\cards.js"
     },
     {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\html2canvas.min.js",
+      "PackagePath": "staticwebassets\\js\\html2canvas.min.js"
+    },
+    {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\rows.js",
       "PackagePath": "staticwebassets\\js\\rows.js"
+    },
+    {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\save.js",
+      "PackagePath": "staticwebassets\\js\\save.js"
     },
     {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\site.js",

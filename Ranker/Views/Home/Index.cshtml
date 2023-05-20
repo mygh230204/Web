@@ -1,40 +1,17 @@
 ﻿<!DOCTYPE html>
 <html>
-  <head>
+<head>
     <title>RANKER</title>
-    <link rel="stylesheet" type="text/css" href="./css/site.css" />
-  </head>
-  <body>
+    <link rel="stylesheet" type="text/css" href="~/css/site.css" />
+</head>
+<body>
     <span class="headerContainer">
-      <h1>RANKER</h1>
+        <h1>RANKER</h1>
     </span>
-    <div id="board">
-      <div class="row">
-        <div class="label">A</div>
-      </div>
-      <div class="row">
-        <div class="label">B</div>
-      </div>
-      <div class="row">
-        <div class="label">C</div>
-      </div>
-      <div class="row">
-        <div class="label">D</div>
-      </div>
-      <div class="row">
-        <div class="label">E</div>
-      </div>
+    <div class="container">
+        <h1 style="font-size: 80px;">Welcome!</h1>
+        <p style="font-size: 40px;">Create tier lists with ease!</p>
+        <a class="button" href="@Url.Action("Main", "Home")">GET STARTED</a>
     </div>
-    <div id="bank"></div>
-	<div class="button-container">
-      <button class="addCard">UPLOAD</button>
-      <button class="saveAsImage">SAVE</button>
-    </div>
-    <canvas id="canvas" style="display: none;"></canvas>
-    <script src="./js/bank.js"></script>
-    <script src="./js/cards.js"></script>
-    <script src="./js/rows.js"></script>
-    <script src="./js/save.js"></script>
-	<script src="./js/html2canvas.min.js"></script>
-  </body>
+</body>
 </html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NwYoL1MwP/LDD+cM/91xlVKXsNtlKyux0NUils2q3sk=",
+  "Hash": "XmVglQzrQaBc3Lk+ICiGEgx7wk97O88VJETfmxmhGLQ=",
   "Source": "Ranker",
   "BasePath": "_content/Ranker",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\style.css",
+      "SourceId": "Ranker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\",
+      "BasePath": "_content/Ranker",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
       "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\favicon.ico",
       "SourceId": "Ranker",
       "SourceType": "Discovered",
@@ -119,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\js\\cards.js"
     },
     {
+      "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\html2canvas.min.js",
+      "SourceId": "Ranker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\",
+      "BasePath": "_content/Ranker",
+      "RelativePath": "js/html2canvas.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\html2canvas.min.js"
+    },
+    {
       "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\rows.js",
       "SourceId": "Ranker",
       "SourceType": "Discovered",
@@ -134,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\rows.js"
+    },
+    {
+      "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\save.js",
+      "SourceId": "Ranker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\",
+      "BasePath": "_content/Ranker",
+      "RelativePath": "js/save.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\save.js"
     },
     {
       "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\site.js",
