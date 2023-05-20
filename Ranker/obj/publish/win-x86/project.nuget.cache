@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QeYJeVJiCL09ZCmGqVJZd/d98yubt7yhvrm03VgJUiAdvcwdaOl0gDj95pVAv5SdPiSdiaOk1n57JjWplWz6qA==",
+  "dgSpecHash": "lC2qSFeBh0c7olzKrQBkqFAhYrEH73fwJUd1uJ2Abu/GjdC7ncSS1fkWdBAUlJtg+CrR3Bx+YNslasdDM7wMSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maksim\\Desktop\\Web\\Web\\Ranker\\Ranker.csproj",
+  "projectFilePath": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\Ranker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.15\\microsoft.netcore.app.runtime.win-x86.6.0.15.nupkg.sha512",
     "C:\\Users\\Maksim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.15.nupkg.sha512",
