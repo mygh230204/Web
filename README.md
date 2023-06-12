@@ -1,22 +1,25 @@
----RANKER---
+# Ranker
 
+## Introduction
 
+Hi there! Welcome to Ranker, my personal web project inspired by tiermaker.com. Ranker allows you to create tier lists, which are ranking systems that help you categorize items, characters, or anything else based on their perceived value, usefulness, or your personal preferences. I developed this project using Visual Studio 2022 and .NET 6.0. It primarily relies on JavaScript and C#.
 
-#Introduction
+## Technologies
 
-Hi! 
-This is a README file for my personal project named “Ranker”. This project is very similar to the tiermaker.com website. The main idea of this project is that it allows you to create tier lists. Tier list is a ranking system that allows you to categorize items, characters, or anything else into different tiers based on their perceived value, usefulness, or your personal preferences. I made this project in Visual Studio 2022 and I used .Net 6.0. This project is based mostly on JavaScript but there are some C# files too. There are 3 main JavaScript files named “bank.js”, “cards.js” and “rows.js”. “bank.js” is responsible for drag-and-drop functionality on the area where images are stored. “cards.js” is responsible for uploading and deleting images, and for the main drag-and-drop functionality. “rows.js” is responsible for drag-and-drop functionality within the rows and it also gives each tier its color. That is the main functionality of this project. I will add more information soon.
+- ASP.NET Core 6.0
+- ASP.NET Core Identity
 
+## Languages
 
+- C#
+- JavaScript
 
-#Technologies
+## Launch
 
-.Net 6.0
-JavaScript
-C#
+To launch this project, follow these steps:
 
+1. Download the project.
+2. Open it in Visual Studio 2022.
+3. Press the start button.
 
-
-#Launch
-
-To launch this project, you can simply download it and then open it in Visual Studio 2022 and press the start button. I think that’s all. 
+That's it! Enjoy)
