@@ -1,0 +1,24 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Ranker.Areas.Identity.Data
+
+@inject SignInManager<RankerUser> SignInManager
+@inject UserManager<RankerUser> UserManager
+
+<style>
+    .nav-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .nav-item button {
+        width: 150px;
+        height: 50px;
+        margin: 10px;
+    }
+</style>
+
+<div class="nav-item">
+    <button class="btn btn-primary" id="register" onclick="location.href='/Identity/Account/Register'">Register</button>
+    <button class="btn btn-primary" id="login" onclick="location.href='/Identity/Account/Login'">Log In</button>
+</div>

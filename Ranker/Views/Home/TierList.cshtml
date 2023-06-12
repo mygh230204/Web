@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>RANKER</title>
+    <link rel="stylesheet" type="text/css" href="~/css/tierlist.css" />
+</head>
+<body>
+    <span class="headerContainer">
+        <h1>RANKER</h1>
+    </span>
+    <div id="board">
+        <div class="row">
+            <div class="label">A</div>
+        </div>
+        <div class="row">
+            <div class="label">B</div>
+        </div>
+        <div class="row">
+            <div class="label">C</div>
+        </div>
+        <div class="row">
+            <div class="label">D</div>
+        </div>
+        <div class="row">
+            <div class="label">E</div>
+        </div>
+    </div>
+    <div id="bank"></div>
+    <div class="button-container">
+        <button class="addCard">UPLOAD</button>
+        <button class="saveAsImage">SAVE</button>
+    </div>
+    <canvas id="canvas" style="display: none;"></canvas>
+    <script src="~/js/bank.js"></script>
+    <script src="~/js/cards.js"></script>
+    <script src="~/js/rows.js"></script>
+    <script src="~/js/save.js"></script>
+    <script src="~/js/html2canvas.min.js"></script>
+</body>
+</html>

@@ -18,7 +18,12 @@ namespace Ranker.Controllers
             return View();
         }
 
-        public IActionResult Main()
+        public IActionResult TierList()
+        {
+            return View();
+        }
+
+        public IActionResult RegLog()
         {
             return View();
         }

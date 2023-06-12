@@ -5,12 +5,16 @@
       "PackagePath": "staticwebassets\\Ranker.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\tierlist.css",
+      "PackagePath": "staticwebassets\\css\\tierlist.css"
     },
     {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\favicon.ico",
