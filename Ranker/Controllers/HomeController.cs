@@ -23,6 +23,11 @@ namespace Ranker.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
         public IActionResult RegLog()
         {
             return View();

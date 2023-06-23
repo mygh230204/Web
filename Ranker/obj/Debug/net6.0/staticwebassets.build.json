@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9cZV8Fl7nji2HjUSzaz6ZQAwcw2avWynEvOJzKabn/w=",
+  "Hash": "wwpNd5Alpqy+G4V6Xu/MwfNlZIjTsaYrSjAOJFVGArg=",
   "Source": "Ranker",
   "BasePath": "_content/Ranker",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ranker.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\about.css",
+      "SourceId": "Ranker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\",
+      "BasePath": "_content/Ranker",
+      "RelativePath": "css/about.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\about.css"
+    },
+    {
       "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\index.css",
       "SourceId": "Ranker",
       "SourceType": "Discovered",
@@ -1137,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\Images\\GHIcon.png",
+      "SourceId": "Ranker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\",
+      "BasePath": "_content/Ranker",
+      "RelativePath": "Images/GHIcon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\GHIcon.png"
     },
     {
       "Identity": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\js\\bank.js",

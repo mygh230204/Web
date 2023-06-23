@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Ranker.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\Images\\GHIcon.png",
+      "PackagePath": "staticwebassets\\Images\\GHIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
       "Id": "C:\\Users\\Maksim\\Desktop\\Web\\Ranker\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },

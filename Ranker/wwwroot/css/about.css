@@ -1,0 +1,80 @@
+﻿body {
+    font-family: Arial;
+    margin: 0;
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3c3c3c;
+}
+
+.headerContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.container {
+    text-align: justify;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #3c3c3c;
+    color: #ffffff;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.github-container {
+    color: #ffffff;
+    background-color: #999999;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    width: 250px;
+    max-height: 500px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.github-link {
+    font-size: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.github-desc {
+    font-size: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.github-icon {
+    width: 200px;
+    height: 200px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
